@@ -10,7 +10,7 @@
 
 #
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,javascript,spring,mysql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,javascript,mysql&theme=dark)](https://skillicons.dev)
 
 #
 

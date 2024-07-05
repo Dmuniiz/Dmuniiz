@@ -8,23 +8,5 @@
 
 📚 Studying Java, SQL and Python
 
-#
-
-[![My Skills](https://skillicons.dev/icons?i=c,java,javascript,mysql&theme=dark)](https://skillicons.dev)
-
-#
-
-[![My Skills](https://skillicons.dev/icons?i=windows,linux&theme=dark)](https://skillicons.dev)
-
-#
-
-[![My Skills](https://skillicons.dev/icons?i=linkedin,&theme=dark)](https://www.linkedin.com/in/davy-muniz-3560a2302/)
-
-
-
-![Dmuniiz GitHub stats](https://github-readme-stats.vercel.app/api?username=Dmuniiz&show_icons=true&theme=dark)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmuniiz&layout=compact)](https://github.com/Dmuniiz/github-readme-stats)
 
 

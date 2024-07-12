@@ -6,7 +6,7 @@
 
 🔠B1- B2 English Level - FISK
 
-📚 Studying Java, SQL and Python
+📚 
 
 
 

@@ -6,6 +6,6 @@
 
 #
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,linux,java,spring,maven,javascript,html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,linux,javascript,html,css&theme=dark)](https://skillicons.dev)
 
 

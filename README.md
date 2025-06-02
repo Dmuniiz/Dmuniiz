@@ -11,7 +11,7 @@ Sou um estudante de Engenharia de Software, atualmente com 19 anos, apaixonado p
 
 ## 🔧 Tecnologias & Ferramentas
 - **Linguagens:** Java, SQL
-- **Frameworks:** Spring Boot, Hibernate
+- **Frameworks:** Spring Boot, Hibernate, JPA
 - **Banco de Dados:** MySQL, PostgreSQL, MongoDB
 - **Ferramentas:** Git, Docker
 - **Metodologias:** Agile, TDD

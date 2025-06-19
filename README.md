@@ -19,12 +19,6 @@ Sou um estudante de Engenharia de Software, atualmente com 19 anos, apaixonado p
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
-## Objetivos
-- Aprimorar minhas habilidades como **desenvolvedor backend**.
-- Construir projetos inovadores que resolvam problemas reais.
-- Compartilhar conhecimento e aprender com a comunidade.
-- Desenvolver fluência em inglês para atuar no mercado global de tecnologia.
-
 📫 **Como me encontrar?**
 Me conecte pelo LinkedIn ou GitHub para trocarmos experiências!
 ---

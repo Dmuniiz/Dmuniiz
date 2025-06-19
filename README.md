@@ -19,7 +19,7 @@ Sou um estudante de Engenharia de Software, atualmente com 19 anos, apaixonado p
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
+
+--------
 📫 **Como me encontrar?**
-Me conecte pelo LinkedIn ou GitHub para trocarmos experiências!
----
-Sempre buscando novos desafios e oportunidades para crescer na área de tecnologia! 🚀
+<a href="https://www.linkedin.com/in/davy-muniz-3560a2302/">Linkedin</a>

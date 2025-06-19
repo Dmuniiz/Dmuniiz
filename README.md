@@ -1,5 +1,3 @@
-# Olá, mundo! 👋
-
 Sou um estudante de Engenharia de Software, atualmente com 19 anos, apaixonado por desenvolvimento backend e focado na linguagem **Java**. 
 
 ## Sobre Mim
@@ -21,7 +19,6 @@ Sou um estudante de Engenharia de Software, atualmente com 19 anos, apaixonado p
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
-
 ## Objetivos
 - Aprimorar minhas habilidades como **desenvolvedor backend**.
 - Construir projetos inovadores que resolvam problemas reais.
@@ -31,5 +28,4 @@ Sou um estudante de Engenharia de Software, atualmente com 19 anos, apaixonado p
 📫 **Como me encontrar?**
 Me conecte pelo LinkedIn ou GitHub para trocarmos experiências!
 ---
-
 Sempre buscando novos desafios e oportunidades para crescer na área de tecnologia! 🚀

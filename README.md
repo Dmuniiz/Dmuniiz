@@ -1,7 +1,7 @@
 Sou um estudante de Engenharia de Software, atualmente com 19 anos, apaixonado por desenvolvimento backend e focado na linguagem **Java**. 
 
 ## Sobre Mim
-- 🎓 Estudando **Engenharia de Software**, explorando conceitos avançados de programação e arquitetura de sistemas.
+- 🎓 Estudando **Engenharia de Software**(<a href="https://www.usjt.br/">USTJ</a>), explorando conceitos avançados de programação e arquitetura de sistemas. 
 - 💻 Focado no desenvolvimento backend, sempre buscando aprimorar minhas habilidades em **Java** e tecnologias relacionadas.
 - 🔍 Interessado em **Spring Boot**, **Microservices**, **Banco de Dados** e boas práticas de programação.
 - 🤝 Aberto para colaboração em projetos e troca de conhecimento.
